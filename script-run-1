@@ -1,0 +1,48 @@
+Script started on Mon 27 Nov 2017 03:43:22 PM EST
+reddytej@cisc650:~/proj2$ ./client
+
+Port Number 48001
+TCP Message sent:     35624
+TCP Message received: 35624, 55000
+UDP Message sent:     35624, 55000, teja-parlapalli
+UDP Message received: 35624, 55000, Ashwag-Altayyar
+
+Port Number 48049
+TCP Message sent:     35624
+TCP Message received: 35624, 11993
+UDP Message sent:     35624, 11993, teja-parlapalli
+UDP Message received: 35624, 11993, Bill-Clinton
+
+Port Number 48059
+TCP Message sent:     35624
+TCP Message received: 35624, 56506
+UDP Message sent:     35624, 56506, teja-parlapalli
+UDP Message received: 35624, 56506, Daniel-Gaston
+
+Port Number 48084
+TCP Message sent:     35624
+TCP Message received: 35624, 9265
+UDP Message sent:     35624, 9265, teja-parlapalli
+UDP Message received: 35624, 9265, surya-kasturi
+
+Port Number 48380
+TCP Message sent:     35624
+TCP Message received: 35624, 14716
+UDP Message sent:     35624, 14716, teja-parlapalli
+UDP Message received: 35624, 14716, teja-parlapalli
+
+Port Number 48500
+TCP Message sent:     35624
+TCP Message received: 35624, 2447
+UDP Message sent:     35624, 2447, teja-parlapalli
+UDP Message received: 35624, 2447, Aditya-Karmarkar
+
+Port Number 48530
+TCP Message sent:     35624
+TCP Message received: 35624, 531
+UDP Message sent:     35624, 531, teja-parlapalli
+UDP Message received: 0, 2865, lu-zhan
+Segmentation fault (core dumped)
+reddytej@cisc650:~/proj2$ exit
+
+Script done on Mon 27 Nov 2017 03:43:38 PM EST

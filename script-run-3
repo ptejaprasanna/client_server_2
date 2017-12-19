@@ -1,0 +1,30 @@
+Script started on Mon 27 Nov 2017 09:43:20 PM EST
+reddytej@cisc650:~/proj2$ ./clienT[Kt
+
+Port Number 48111
+TCP Message sent:     35624
+TCP Message received: 35624, 111
+UDP Message sent:     35624, 111, teja-parlapalli
+UDP Message received: 35624, 111, siddharth-singh
+
+Port Number 48116
+TCP Message sent:     35624
+TCP Message received: 35624, 11116
+UDP Message sent:     35624, 11116, teja-parlapalli
+UDP Message received: 35624, 11116, yuyan-liu
+
+Port Number 48222
+TCP Message sent:     35624
+TCP Message received: 35624, 8800
+UDP Message sent:     35624, 8800, teja-parlapalli
+UDP Message received: 35624, 8800, 
+Port Number %d
+
+Port Number 48555
+TCP Message sent:     35624
+TCP Message received: 35624, 55555
+UDP Message sent:     35624, 55555, teja-parlapalli
+UDP Message received: 35624, 55555, Jansher-Khan
+reddytej@cisc650:~/proj2$ exit
+
+Script done on Mon 27 Nov 2017 09:43:38 PM EST

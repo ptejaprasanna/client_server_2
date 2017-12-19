@@ -1,0 +1,17 @@
+Script started on Tue 28 Nov 2017 11:53:18 AM EST
+reddytej@cisc650:~/proj2$ ./client
+
+Port Number 48233
+TCP Message sent:     35624
+TCP Message received: 35624, 22001
+UDP Message sent:     35624, 22001, teja-parlapalli
+UDP Message received: 35624, 22001, George-W-Bush
+
+Port Number 48690
+TCP Message sent:     35624
+TCP Message received: 35624, 14668
+UDP Message sent:     35624, 14668, teja-parlapalli
+UDP Message received: 35624, 14668, zhi-zhou
+reddytej@cisc650:~/proj2$ exit
+
+Script done on Tue 28 Nov 2017 11:53:32 AM EST

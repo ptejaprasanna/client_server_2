@@ -1,0 +1,41 @@
+Script started on Mon 27 Nov 2017 03:43:51 PM EST
+reddytej@cisc650:~/proj2$ ./client
+
+Port Number 48666
+TCP Message sent:     35624
+TCP Message received: 35624, 50000
+UDP Message sent:     35624, 50000, teja-parlapalli
+UDP Message received: 35624, 50000, Jiashu-Chen
+
+Port Number 48711
+TCP Message sent:     35624
+TCP Message received: 35624, 8711
+UDP Message sent:     35624, 8711, teja-parlapalli
+UDP Message received: 35624, 8711, mengdie-tao
+
+Port Number 48727
+TCP Message sent:     35624
+TCP Message received: 35624, 12727
+UDP Message sent:     35624, 12727, teja-parlapalli
+UDP Message received: 35624, 12727, Baegwang-Shin
+
+Port Number 48738
+TCP Message sent:     35624
+TCP Message received: 35624, 58588
+UDP Message sent:     35624, 58588, teja-parlapalli
+UDP Message received: 35624, 58588, ye-fan
+
+Port Number 48833
+TCP Message sent:     35624
+TCP Message received: 35624, 33130
+UDP Message sent:     35624, 33130, teja-parlapalli
+UDP Message received: 35624, 33130, ehsan-memary
+
+Port Number 48839
+TCP Message sent:     35624
+TCP Message received: 35624, 56666
+UDP Message sent:     35624, 56666, teja-parlapalli
+UDP Message received: 35624, 56666, Presidents-of-the-United-States-of-America
+reddytej@cisc650:~/proj2$ exit
+
+Script done on Mon 27 Nov 2017 03:44:08 PM EST
